@@ -1,0 +1,1 @@
+Put your own test image samples into this folder.
